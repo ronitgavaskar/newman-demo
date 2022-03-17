@@ -1,0 +1,15 @@
+{
+  "name": "newman",
+  "version": "1.0.0",
+  "description": "sample project to test newman",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {},
+  "dependencies": {
+    "newman": "^3.9.3"
+  }
+}
